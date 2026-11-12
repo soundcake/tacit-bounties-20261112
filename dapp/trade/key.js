@@ -6,7 +6,7 @@ import { secp, sha256, keccak_256, bytesToHex, hexToBytes } from '/vendor/tacit-
 import { prfBytesToScalar, prfLogin, prfRegister, loadPrfMap, savePrfMap, isPasskeyAvailable } from '/prf-wallet.js';
 import { knownWallets } from '/tacit-wallet-known.js?cb=ed4c75b7';
 import { makeEvmWallet } from '/evm-wallet.js?cb=14e5326a';
-import { signInSheet, pickWalletSheet, Cancelled } from '/trade/sign-in.js?cb=4b1a6137';
+import { signInSheet, pickWalletSheet, Cancelled } from '/trade/sign-in.js?cb=1295faa6';
 import { tabKeyRead, tabKeyWrite, tabKeyClear, tabKeyWatch } from '/tab-key.js?cb=a4c25d0e';
 
 const RECORD = 'tacit-trade-id-v1';                                           // how /trade last opened a key: public data only (the Bitcoin market writes it too)
