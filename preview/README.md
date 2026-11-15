@@ -1,16 +1,5 @@
-# Design preview
+Screenshots for design bounty #72
 
-Local previews of the design-bounty branch at `a2088ff`. Desktop: 1440 × 1000. Phone: 390 × 900. Light and dark system themes. Statistics use the repository’s local test fixture.
+Captured against main at `7d53a94`, using the repository local statistics fixture.
 
-![desktop-light](desktop-light.png)
-
-![desktop-dark](desktop-dark.png)
-
-![phone-light](phone-light.png)
-
-![phone-dark](phone-dark.png)
-
-![wallet-light](wallet-light.png)
-
-![wallet-dark](wallet-dark.png)
-
+Desktop and phone layouts in light and dark, plus the wallet sheet.
